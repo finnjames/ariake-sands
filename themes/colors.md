@@ -1,10 +1,10 @@
-base03 (bg)      #
+base03           #1f1f1f
 base02 (bg)      #242424
 base01           #
 base00           #
 base0            #
 base1            #
-base2  (comment) #556877
+base2  (comment) #677989
 base3  (fg)      #C2C6D6
 
 yellow (blurple) #7E99DD

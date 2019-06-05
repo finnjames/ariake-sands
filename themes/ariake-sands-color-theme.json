@@ -6,7 +6,7 @@
     "activityBar.background": "#1f1f1f",
     "activityBar.foreground": "#C2C6D687",
 		"activityBarBadge.background": "#8EB6D6",
-		"activityBarBadge.foreground": "#F4FAFF",
+		"activityBarBadge.foreground": "#242424",
     
 		"diffEditor.insertedTextBackground": "#43434310",
     "diffEditor.removedTextBackground": "#e0e0e01a",
@@ -70,8 +70,8 @@
 		"terminal.border": "#80808059",
     "terminal.foreground": "#C2C6D6",
     "terminal.selectionBackground": "#C2C6D646",
-    "terminal.ansiBlack": "#556877",
-		"terminal.ansiBrightBlack": "#556877",
+    "terminal.ansiBlack": "#677989",
+		"terminal.ansiBrightBlack": "#677989",
 		"terminal.ansiBlue": "#8EB6D6",
 		"terminal.ansiBrightBlue": "#B6D5F3",
 		"terminal.ansiCyan": "#B084EB",
@@ -92,7 +92,7 @@
 			"name": "Comment",
 			"scope": "comment",
 			"settings": {
-				"foreground": "#556877"
+				"foreground": "#677989"
 			}
 		},
 		{
@@ -267,7 +267,7 @@
 			"name": "Comment punctuation",
 			"scope": "punctuation.definition.comment",
 			"settings": {
-				"foreground": "#556877"
+				"foreground": "#677989"
 			}
 		},
 		{
