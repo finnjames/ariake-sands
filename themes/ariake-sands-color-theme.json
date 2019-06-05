@@ -45,7 +45,13 @@
     // sidebar
 		"sideBar.background": "#1f1f1f",
     "sideBarSectionHeader.background": "#1f1f1f",
-    
+    // git
+    "gitDecoration.modifiedResourceForeground": "#8EB6D687",
+    "gitDecoration.deletedResourceForeground": "#B081C587",
+    "gitDecoration.untrackedResourceForeground": "#78BBB787",
+    "gitDecoration.ignoredResourceForeground": "#C2C6D677",
+    "gitDecoration.conflictingResourceForeground": "#F1487B87",
+    // status bar
 		"statusBar.background": "#1f1f1f",
 		"statusBar.debuggingBackground": "#230000",
     "statusBar.foreground": "#4f4f4f",
@@ -290,8 +296,8 @@
 			"name": "Italic",
 			"scope": "punctuation.definition.italic",
 			"settings": {
-				"fontStyle": " italic",
-				"foreground": "#7E99DD"
+				"foreground": "#7E99DD",
+				"fontStyle": " italic"
 			}
 		},
 		{
@@ -470,7 +476,7 @@
 			"name": "Markup: Bold",
 			"scope": "markup.bold",
 			"settings": {
-				"foreground": "#dda2f6",
+				"foreground": "#C2C6D6",
 				"fontStyle": " bold"
 			}
 		},
@@ -492,8 +498,8 @@
 			"name": "Markup: Italic",
 			"scope": "markup.italic",
 			"settings": {
-				"fontStyle": " italic",
-				"foreground": "#7E99DD"
+				"foreground": "#C2C6D6",
+				"fontStyle": "italic",
 			}
 		},
 		{
@@ -687,13 +693,13 @@
 		{
 			"scope": "token.warn-token",
 			"settings": {
-				"foreground": "#cd9731"
+				"foreground": "#f148be"
 			}
 		},
 		{
 			"scope": "token.error-token",
 			"settings": {
-				"foreground": "#f44747"
+				"foreground": "#F1487B"
 			}
 		},
 		{

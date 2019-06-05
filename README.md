@@ -1,13 +1,32 @@
-# README
-## This is the README for your extension "ariake-sands"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Ariake Sands 🌃
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+[![Version](https://vsmarketplacebadge.apphb.com/version-short/radiolevity.ariake-sands.svg)](https://marketplace.visualstudio.com/items?itemName=radiolevity.ariake-sands)
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+Based on the lovely [Ariake Dark](https://marketplace.visualstudio.com/items?itemName=wart.ariake-dark).
 
-**Enjoy!**
+## Recommendations
+I recommend using the included custom css, which is a slightly modified version of that from the fantastic [cobalt2](https://marketplace.visualstudio.com/items?itemName=wesbos.theme-cobalt2).
+
+**Font:** [Input Mono Compressed](http://input.fontbureau.com/download/)
+
+**Icon Theme:** Black & White [City Lights](https://marketplace.visualstudio.com/items?itemName=Yummygum.city-lights-icon-vsc)
+
+**Other extensions:** [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2), [Custom CSS and JS Loader](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css)
+
+**User Settings**
+```
+"bracket-pair-colorizer-2.colors": [
+  "#ABBFF2",
+  "#F993BA",
+  "#DDA3F7",
+  "#D3B2FF",
+  "#B6D5F3",
+  "#9AEFEA",
+],
+  
+"bracket-pair-colorizer-2.unmatchedScopeColor": "#F1487B",
+```
+
+_desert by Cezary Lopacinski from the Noun Project_
+
+Cheers!
