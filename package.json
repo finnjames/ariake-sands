@@ -1,0 +1,21 @@
+{
+    "name": "ariake-sands",
+    "displayName": "Ariake Sands",
+    "description": "Dark theme combining Ariake Dark and Mojave",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.34.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Ariake Sands",
+                "uiTheme": "vs-dark",
+                "path": "./themes/ariake-sands-color-theme.json"
+            }
+        ]
+    }
+}
