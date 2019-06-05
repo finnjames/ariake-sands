@@ -1,8 +1,9 @@
 {
   "name": "ariake-sands",
-  "displayName": "Ariake Sands",
-  "description": "Dark theme combining Ariake Dark and Mojave",
   "version": "1.0.0",
+  "displayName": "Ariake Sands",
+  "description": "Ariake based dark theme for Mojave",
+  "publisher": "radiolevity",
   "repository": {
     "type": "git",
     "url": "https://github.com/radiolevity/ariake-sands"
