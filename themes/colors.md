@@ -15,9 +15,9 @@ magenta          #B081C5
   pale magenta     #DDA3F7
 cyan (violet)    #B084EB
   pale cyan        #D3B2FF
-blue             #8EB6D6
-  pale blue        #B6D5F3
-  ghost blue       #F5FAFF
+blue             #85B6C8
+  pale blue        #B8E0EF
+  ghost blue       #F4FCFF
 green            #78BBB7
   pale green       #9AEFEA
 
