@@ -53,8 +53,14 @@
     "gitDecoration.conflictingResourceForeground": "#F1487B87",
     // status bar
 		"statusBar.background": "#1f1f1f",
-		"statusBar.debuggingBackground": "#230000",
     "statusBar.foreground": "#4f4f4f",
+    "statusBar.noFolderBackground": "#B8E0EF",
+    "statusBar.noFolderForeground": "#242424",
+		"statusBar.debuggingBackground": "#85B6C8",
+    "statusBar.debuggingForeground": "#242424",
+    // debug
+    "debugToolBar.background": "#242424",
+    "debugToolBar.border": "#85B6C8",
     // tabs
 		"tab.border": "#1f1f1f",
 		"tab.inactiveBackground": "#1f1f1f",
@@ -62,9 +68,6 @@
     // titlebar
 		"titleBar.activeBackground": "#1f1f1f",
     "titleBar.inactiveBackground": "#1f1f1f",
-    // debug
-    "debugToolBar.background": "#85B6C8",
-
     // terminal
     "terminal.background": "#242424",
 		"terminal.border": "#80808059",
