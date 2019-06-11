@@ -1,6 +1,10 @@
 # Ariake Sands 🌃
 
-[![Version](https://vsmarketplacebadge.apphb.com/version-short/radiolevity.ariake-sands.svg)](https://marketplace.visualstudio.com/items?itemName=radiolevity.ariake-sands)
+<a href="https://marketplace.visualstudio.com/items?itemName=radiolevity.ariake-sands">
+  <img alt="marketplace version" src="https://img.shields.io/vscode-marketplace/v/radiolevity.ariake-sands.svg?maxAge=3600&style=for-the-badge&colorA=1f1f1f&colorB=85B6C8">
+</a>
+
+---
 
 Based on the lovely [Ariake Dark](https://marketplace.visualstudio.com/items?itemName=wart.ariake-dark) and [Ariake Light Syntax](https://github.com/ragmha/ariake-light-syntax)
 
