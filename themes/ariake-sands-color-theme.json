@@ -8,9 +8,6 @@
 		"activityBarBadge.background": "#85B6C8",
 		"activityBarBadge.foreground": "#242424",
     
-		"diffEditor.insertedTextBackground": "#43434310",
-    "diffEditor.removedTextBackground": "#e0e0e01a",
-    
     "dropdown.background": "#1f1f1f",
     // editor
 		"editor.background": "#242424",
@@ -50,6 +47,9 @@
     "gitDecoration.untrackedResourceForeground": "#78BBB787",
     "gitDecoration.ignoredResourceForeground": "#C2C6D677",
     "gitDecoration.conflictingResourceForeground": "#F1487B87",
+
+    "diffEditor.insertedTextBackground": "#78BBB723",
+    "diffEditor.removedTextBackground": "#ED5C932a",
     // status bar
 		"statusBar.background": "#1f1f1f",
     "statusBar.foreground": "#4f4f4f",
