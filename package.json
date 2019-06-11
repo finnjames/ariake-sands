@@ -25,6 +25,11 @@
         "label": "Ariake Sands",
         "uiTheme": "vs-dark",
         "path": "./themes/ariake-sands-color-theme.json"
+      },
+      {
+        "label": "Ariake Sun",
+        "uiTheme": "vs",
+        "path": "./themes/ariake-sun-color-theme.json"
       }
     ]
   }

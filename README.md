@@ -2,7 +2,9 @@
 
 [![Version](https://vsmarketplacebadge.apphb.com/version-short/radiolevity.ariake-sands.svg)](https://marketplace.visualstudio.com/items?itemName=radiolevity.ariake-sands)
 
-Based on the lovely [Ariake Dark](https://marketplace.visualstudio.com/items?itemName=wart.ariake-dark).
+Based on the lovely [Ariake Dark](https://marketplace.visualstudio.com/items?itemName=wart.ariake-dark) and [Ariake Light Syntax](https://github.com/ragmha/ariake-light-syntax)
+
+As of 1.1.0 there is now a light mode called **Ariake Sun**!
 
 ## Recommendations
 I recommend using the included custom css, which is a slightly modified version of that from the fantastic [cobalt2](https://marketplace.visualstudio.com/items?itemName=wesbos.theme-cobalt2).
@@ -14,7 +16,9 @@ I recommend using the included custom css, which is a slightly modified version 
 **Other extensions:** [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2), [Custom CSS and JS Loader](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css)
 
 **User Settings**
-```
+
+_dark_
+```JSON
 "bracket-pair-colorizer-2.colors": [
   "#ABBFF2",
   "#F993BA",
@@ -25,6 +29,19 @@ I recommend using the included custom css, which is a slightly modified version 
 ],
   
 "bracket-pair-colorizer-2.unmatchedScopeColor": "#F1487B",
+```
+
+_light_
+```JSON
+"bracket-pair-colorizer-2.colors": [
+    "#78b1ed",
+    "#7e7edd",
+    "#1dafa8",
+    "#337dcc",
+    "#ba45ed",
+  ],
+
+  "bracket-pair-colorizer-2.unmatchedScopeColor": "#F1487B",
 ```
 
 _desert by Cezary Lopacinski from the Noun Project_
