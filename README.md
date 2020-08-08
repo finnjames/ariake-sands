@@ -10,6 +10,8 @@ Based on the lovely [Ariake Dark](https://marketplace.visualstudio.com/items?ite
 
 As of 1.1.0 there is now a light mode called **Ariake Sun**!
 
+I am no longer regularly updating this theme. The spiritual successor is [Neofloss](https://marketplace.visualstudio.com/items?itemName=radiolevity.neofloss).
+
 ## Recommendations
 I recommend using the included custom css, which is a slightly modified version of that from the fantastic [cobalt2](https://marketplace.visualstudio.com/items?itemName=wesbos.theme-cobalt2).
 
