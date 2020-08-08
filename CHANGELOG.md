@@ -1,5 +1,6 @@
 # Change Log
 
+* 1.1.3 - another readme update
 * 1.1.2 - readme update
 * 1.1.1 - difference editor fix
 * 1.1.0 - light mode added
